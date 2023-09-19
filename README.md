@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="https://i.imgur.com/a/GreUcY2.gif" title="Video Demo" width="300" alt="App Demo" />
+<img src="https://i.imgur.com/GreUcY2.gif" title="Video Demo" width="300" alt="App Demo" />
 
 
 GIF created with ****Kap.app****
