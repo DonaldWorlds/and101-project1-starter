@@ -51,7 +51,7 @@ GIF created with ****Kap.app****
 
 ## Notes
 
-Android Activity Lifecycle: Explored the Android activity lifecycle and implemented logic in the onCreate method for initializing the app.
+****Android Activity Lifecycle: Explored the Android activity lifecycle and implemented logic in the onCreate method for initializing the app.
 
 View Manipulation: Learned how to configure and manipulate views within the app, making dynamic changes to the user interface.
 
@@ -63,7 +63,7 @@ App Customization: Customized the app's appearance by defining themes and colors
 
 Image Handling: Loaded and displayed images in the app's interface, employing the ImageView and AppCompatResources to enhance visual elements.
 
-Layout Fundamentals: Though not explicitly detailed, worked with XML layout files to structure and design the app's user interface.
+Layout Fundamentals: Though not explicitly detailed, worked with XML layout files to structure and design the app's user interface.****
 
 ## License
 
