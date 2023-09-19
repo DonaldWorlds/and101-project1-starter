@@ -18,14 +18,14 @@ If I had to describe this project in three (3) emojis, they would be: **🔥🔥
 
 The following REQUIRED features are completed:
 
-- [x ] Change profile name to your name
-- [ x] Change profile bio text to a personal bio about yourself
-- [x ] Modify hobby section to include your top three (3) hobbies
+- [x] Change profile name to your name
+- [x] Change profile bio text to a personal bio about yourself
+- [x] Modify hobby section to include your top three (3) hobbies
 
 The following STRETCH features are implemented:
 
-- [ x] Re-brand the app by modifying the UI
-- [x ] Modify the profile image by uploading a new image drawable
+- [x] Re-brand the app by modifying the UI
+- [x] Modify the profile image by uploading a new image drawable
 
 The following EXTRA features are implemented:
 
@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="https://imgur.com/1wsRCyg" title="Video Demo" width="" alt="Video Demo" />
+<img src="https://i.imgur.com/GreUcY2.gif" title="Video Demo" width="300" alt="App Demo" />
 
 
 GIF created with ****Kap.app****
