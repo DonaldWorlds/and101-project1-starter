@@ -51,7 +51,19 @@ GIF created with ****Kap.app****
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+Android Activity Lifecycle: Explored the Android activity lifecycle and implemented logic in the onCreate method for initializing the app.
+
+View Manipulation: Learned how to configure and manipulate views within the app, making dynamic changes to the user interface.
+
+Resource Management: Used resource files to maintain colors, themes, and text content, promoting consistency and adaptability.
+
+String Resources: Leveraged string resources for storing and retrieving text, enabling support for multiple languages.
+
+App Customization: Customized the app's appearance by defining themes and colors in the styles.xml file.
+
+Image Handling: Loaded and displayed images in the app's interface, employing the ImageView and AppCompatResources to enhance visual elements.
+
+Layout Fundamentals: Though not explicitly detailed, worked with XML layout files to structure and design the app's user interface.
 
 ## License
 
