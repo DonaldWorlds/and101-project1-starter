@@ -36,6 +36,7 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 <img src="https://imgur.com/sfNxOVy" title="Video Demo" width="300" alt="App Demo" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="nOY22gF"><a href="https://imgur.com/nOY22gF">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
