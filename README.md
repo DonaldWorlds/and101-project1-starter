@@ -36,6 +36,7 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 
+![Kapture 2023-09-18 at 23 07 44](https://github.com/DonaldWorlds/and101-project1-starter/assets/76827598/d8475912-88f4-4a80-bdd9-32aac7e2fe79)
 
 
 
